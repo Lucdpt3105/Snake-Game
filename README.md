@@ -1,6 +1,7 @@
 # 🐍 Console Snake Game in C++
 
 This is a simple **console-based Snake game** written in C++ for Windows. It uses basic libraries like `<iostream>`, `<conio.h>`, and `<thread>` to simulate real-time gameplay in the terminal.
+Learning about for loop ....
 
 ## 🎮 Gameplay
 
